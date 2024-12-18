@@ -1,0 +1,2 @@
+Criar tipo MenuItem ToDo.1
+ substituir o tipo "tipo MenuItem"
